@@ -1,0 +1,4 @@
+You will need to install the following perl modules for GISKismet to work
+   DBI
+   XML::LibXML
+   DBD::SQLite
